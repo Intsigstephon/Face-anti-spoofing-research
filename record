@@ -1,15 +1,29 @@
-arxiv (search "anti spoofing"): total 24 articles, mainly published by 2018.
-arxiv (search "face anti spoofing "): total 10 articles, mainly published by 2018.
+arxiv (search "anti spoofing"):         total 24 articles, mainly published by 2018.
+arxiv (search "face anti spoofing "):   total 10 articles, mainly published by 2018.
 
 summary:
 2014:   2 (one is useless)
         Learn Convolutional Neural Network for Face Anti-Spoofing
+        
 2015:   3 (2 are useless)
         Face anti-spoofing based on color texture analysis
-2016:   2
-2017:   2
-2018:   13
-2019:   2
+        
+2016:   2 (both are useless....)
+
+2017:   2 (both are talking about ASV)
+
+2018:   13 (others are useless)
+        CASIA-SURF: A Dataset and Benchmark for Large-scale Multi-modal Face Anti-spoofing
+        Exploring Hypergraph Representation on Face Anti-spoofing Beyond 2D Attacks
+        Exploiting temporal and depth information for multi-frame face anti-spoofing
+        Face De-Spoofing: Anti-Spoofing via Noise Modeling
+        A Study On Convolutional Neural Network Based End-To-End Replay Anti-Spoofing
+        A Performance Evaluation of Convolutional Neural Networks for Face Anti Spoofing
+        Learning Deep Models for Face Anti-Spoofing: Binary or Auxiliary Supervision
+        Face Spoofing Detection by Fusing Binocular Depth and Spatial Pyramid Coding Micro-Texture Features
+        
+2019:   2 (one is about ASV, another is about face anti-spoofing)
+        Improving Face Anti-Spoofing by 3D Virtual Synthesis
 
 
 1. Learn Convolutional Neural Network for Face Anti-Spoofing
