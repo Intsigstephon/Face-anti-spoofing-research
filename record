@@ -1,0 +1,22 @@
+arxiv (search "anti spoofing"): total 24 articles, mainly published by 2018.
+arxiv (search "face anti spoofing "): total 10 articles, mainly published by 2018.
+
+summary:
+2014:   2 (one is useless)
+        Learn Convolutional Neural Network for Face Anti-Spoofing
+2015:   3 (2 are useless)
+        Face anti-spoofing based on color texture analysis
+2016:   2
+2017:   2
+2018:   13
+2019:   2
+
+
+1. Learn Convolutional Neural Network for Face Anti-Spoofing
+   highlight: 
+   a) first use cnn to solve face anti-spoofing problem
+   b) some trick preprocess
+   c) over 70% relative decrease of Half Total Error Rate (HTER) on CASIA [36] and REPLAY-ATTACK
+   d) better generalization ability
+   
+2. Face anti-spoofing based on color texture analysis
